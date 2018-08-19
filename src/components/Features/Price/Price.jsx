@@ -151,8 +151,8 @@ class Price extends Component {
         return (
             <Wrapper>
                 <DivWrapper>
-                    <H2 inline>Choose one plan and watch everything on Netflix.</H2>
-                    <JoinButton4>JOIN FREE FOR A MONTH</JoinButton4>
+                    <H2 inline>Pay only for your music that has been successfully marketed and distributed.</H2>
+                    <JoinButton4>JOIN FREE</JoinButton4>
                 </DivWrapper>
                     <Table>
                         <thead>
@@ -251,8 +251,8 @@ class Price extends Component {
             return (
                 <Wrapper>
                 <DivWrapper>
-                    <H2 inline>Choose one plan and watch everything on Netflix.</H2>
-                    <JoinButton4>JOIN FREE FOR A MONTH</JoinButton4>
+                    <H2 inline>Pay only for your music that has been successfully marketed and distributed.</H2>
+                    <JoinButton4>JOIN FREE</JoinButton4>
                 </DivWrapper>
                     <Table>
                         <thead>

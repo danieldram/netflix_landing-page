@@ -124,40 +124,34 @@ const watchContent = () => {
         <Wrapper>
             <Columns width90 center >
                 <Column mb60>
-                    <H2 inline>Watch TV shows and movies anytime, anywhere — personalized for 
+                    <H2 inline>Market your music everywhere, anywhere and at anytime — personalized for 
                         <br />
                         you.
                     </H2>
-                    <JoinButton3 column narrow>JOIN FREE FOR A MONTH</JoinButton3>
+                    <JoinButton3 column narrow>JOIN FREE</JoinButton3>
                 </Column>
             </Columns>
 
             <Columns>
                 <Column center>
                     <IMG src={TVimg} alt="Watch on your TV" />
-                    <H3>Watch on your TV</H3>
-                    <Des>Smart TVs, PlayStation, Xbox,
-                        <br />
-                        Chromecast, Apple TV, Blu-ray players and more.
-                    </Des>
+                    <H3>Market on the go!</H3>
+                    <Des>All iPhones &amp; all Android devices supported.</Des>
                 </Column>
 
                 <Column center>
                     <br />
                     <IMG src={Mobileimg} alt="Watch on your Mobile, Tablet Device" />
-                    <H3>Watch instantly or download for
-                        later
+                    <H3>All major browsers also supported!
                     </H3>
-                    <Des>Available on phone and tablet, wherever
-                        you go.
-                    </Des>
+                    <Des>Chrome, Safari, FireFox &amp; Opera</Des>
                 </Column>
 
                 <Column center>
                     < br/>
                     <IMG  src={PCimg} alt="Watch on your PC or MAC" />
-                    <H3>Use any computer</H3>
-                    <Des>Watch right on Netflix.com.</Des>
+                    <H3>We take security seriously!</H3>
+                    <Des>All communication and transactions are over HTTPS secured connections.</Des>
                 </Column>
 
             </Columns>

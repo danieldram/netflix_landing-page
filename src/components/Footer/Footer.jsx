@@ -61,31 +61,31 @@ const footer = () => {
           <Text>Questions? Contact us.</Text>
           <MainList>
               <li>
-                  <a href="https://help.netflix.com/en/node/412"><span>FAQ</span></a>
+                <a href="#"><span>FAQ</span></a>
               </li>
               <li>
-                  <a href="https://help.netflix.com/en/node/412"><span>Help Center</span></a>
+                <a href="#"><span>Help Center</span></a>
               </li>
               <li>
-                  <a href="https://help.netflix.com/en/node/412"><span>Account</span></a>
+                <a href="#"><span>Account</span></a>
               </li>
               <li>
-                  <a href="https://help.netflix.com/en/node/412"><span>Media Center</span></a>
+                <a href="#"><span>Media Center</span></a>
               </li>
               <li>
-                  <a href="https://help.netflix.com/en/node/412"><span>Investor Relations</span></a>
+                <a href="#"><span>Investor Relations</span></a>
               </li>
               <li>
-                  <a href="https://help.netflix.com/en/node/412"><span>Jobs</span></a>
+                <a href="#"><span>Jobs</span></a>
               </li>
               <li>
-                  <a href="https://help.netflix.com/en/node/412"><span>Ways to Watch</span></a>
+                <a href="#"><span>Ways to Watch</span></a>
               </li>
               <li>
-                  <a href="https://help.netflix.com/en/node/412"><span>Terms of Use</span></a>
+                <a href="#"><span>Terms of Use</span></a>
               </li>
               <li>
-                  <a href="https://help.netflix.com/en/node/412"><span>Privacy</span></a>
+                <a href="#"><span>Privacy</span></a>
               </li>
               <li>
                   <a href="https://help.netflix.com/en/node/412"><span>Cookie Preferences</span></a>
@@ -104,7 +104,7 @@ const footer = () => {
               </li>
           </MainList>
               <br />
-              <Text small>Netflix Sri Lanka</Text>
+              <Text small>Playthis Inc.</Text>
       </Footer>
     )
 }
