@@ -58,7 +58,7 @@ const pitch = () => {
     return (
       <Section>
         <Title>f**k the record labels.</Title>
-        <Subtitle>MARKET MUSIC, ANY WHERE, ANY TIME.</Subtitle>
+        <Subtitle>MUSIC MARKETING, EVERYWHERE, ANYTIME.</Subtitle>
           <MainJoinButton>JOIN FREE, START NOW</MainJoinButton>
       </Section>
     )

@@ -2,7 +2,7 @@ import React from 'react';
 
 import styled, { css } from 'styled-components';
 
-import netflixlogo from './img/newlogo.gif';
+import netflixlogo from './img/newlogo.svg';
 
 const Nav = styled.nav`
     height: 90px;
@@ -23,9 +23,9 @@ const Nav = styled.nav`
 const Button = styled.button`
     color: white;
     cursor: pointer;
-    background-color: #e50914;
+    background-color: #222;
     line-height: normal;
-    margin: 18px 3% 0 0;
+    margin: 30px 3% 0 0;
     padding: 7px 17px;
     font-weight: 100;
     border: transparent;
@@ -37,7 +37,7 @@ const Button = styled.button`
         float: right;
     `}
     &:hover {
-        background-color: #E53935;
+        background-color: #555;
     }
 `;
 

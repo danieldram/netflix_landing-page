@@ -67,8 +67,8 @@ const cancelContent = () => {
         <Wrapper>
             <Columns>
                 <Column>
-                    <H2>If you decide Netflix isn't for you - no problem. No commitment. Cancel online anytime.</H2>
-                    <JoinButton2>JOIN FREE FOR A MONTH</JoinButton2>
+                    <H2>If you decide Playthis isn't for you - no problem. No commitment. Cancel online anytime.</H2>
+                    <JoinButton2>JOIN FREE</JoinButton2>
                 </Column>
                 <Column>
                     <img src={CancelImage} alt="cancel subscription anytime" />
