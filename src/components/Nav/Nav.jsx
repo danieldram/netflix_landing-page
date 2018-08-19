@@ -2,7 +2,7 @@ import React from 'react';
 
 import styled, { css } from 'styled-components';
 
-import netflixlogo from './img/logo.svg';
+import netflixlogo from './img/newlogo.gif';
 
 const Nav = styled.nav`
     height: 90px;
@@ -10,7 +10,7 @@ const Nav = styled.nav`
     /* Netflix logo */
     img {
         width: 167px;
-        height : 45px;
+        
         vertical-align: middle;
     }
     .logo {

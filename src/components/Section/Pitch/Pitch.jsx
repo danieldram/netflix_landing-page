@@ -22,7 +22,7 @@ const Section = styled.section`
 `;
 
 const Title = styled.h1`
-    font-size: 3em;
+    font-size: 2em;
     margin: 0 0 0.2em;
     font-weight: 700;
 `;
@@ -39,7 +39,7 @@ const MainJoinButton = styled.button`
     margin: 0.5em 0.5em 0.5em 0;
     padding: 12px 2em;
     color: white;
-    background-color: #e50914;
+    background-color: #222;
     cursor: pointer;
     text-decoration: none;
     vertical-align: middle;
@@ -50,16 +50,16 @@ const MainJoinButton = styled.button`
     border: 0;
 
     &:hover {
-      background-color: #E53935;
+      background-color: #555;
     }
 `;
 
 const pitch = () => {
     return (
       <Section>
-        <Title>See what's next.</Title>
-        <Subtitle>WATCH ANYWHERE. CANCEL ANYTIME.</Subtitle>
-          <MainJoinButton>JOIN FREE FOR A MONTH</MainJoinButton>
+        <Title>f**k the record labels.</Title>
+        <Subtitle>MARKET MUSIC, ANY WHERE, ANY TIME.</Subtitle>
+          <MainJoinButton>JOIN FREE, START NOW</MainJoinButton>
       </Section>
     )
 }
